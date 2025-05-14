@@ -1,0 +1,63 @@
+Attribution-NonCommercial 4.0 International
+
+CC BY-NC 4.0
+
+    THE AUTHOR OF THIS SOFTWARE IS NOT A LAWYER AND THIS LICENSE IS NOT A
+    SUBSTITUTE FOR LEGAL ADVICE. DISTRIBUTION OF THIS DOCUMENT DOES NOT
+    ESTABLISH ANY FORM OF WARRANTY OR LEGAL RELATIONSHIP. THIS LICENSE IS
+    PROVIDED "AS-IS" WITHOUT ANY WARRANTIES OR GUARANTEES, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY OR FITNESS FOR A
+    PARTICULAR PURPOSE.
+
+Statement of Purpose
+
+This license is intended to allow free access, study, modification, and
+distribution of the licensed Work, with the strict exception that it may
+not be used for commercial purposes. It supports non-commercial open
+collaboration, learning, research, and artistic expression.
+
+By applying this license to a Work, the author ("Licensor") grants all
+individuals ("Licensees") the right to use, modify, and share the Work
+under the restrictions stated herein.
+
+1. Granted Rights. The Licensee may:
+  i. Use the Work for personal, educational, or research purposes;
+ ii. Modify and adapt the Work, including combining it with other
+     materials, so long as this license remains attached;
+iii. Share the original or modified Work with others, provided that
+     this license remains included with all distributions.
+
+2. Commercial Use Prohibited. The Licensee may not:
+  i. Sell, lease, sublicense, or otherwise exploit the Work for
+     commercial gain;
+ ii. Use the Work in projects, products, or services that generate
+     income or commercial advantage;
+iii. Use the Work in advertising, marketing, or promotional materials
+     intended to support commercial activity.
+
+3. Attribution and Notice.
+  i. This license must accompany all copies or substantial portions of
+     the Work;
+ ii. Licensees are encouraged (but not required) to credit the original
+     author(s) when redistributing the Work or derivatives.
+
+4. Warranty Disclaimer and Liability Waiver.
+  i. The Work is provided “as-is”, without warranty of any kind;
+ ii. The Licensor disclaims all liability for damages arising from the
+     use, inability to use, or misuse of the Work.
+
+5. Revocation.
+  i. This license is intended to be perpetual and irrevocable unless
+     explicitly superseded by a mutually agreed-upon license;
+ ii. Violating the terms of this license will immediately terminate the
+     Licensee’s rights granted herein.
+
+6. Governing Law.
+  i. This license shall be governed by the laws of the jurisdiction of
+     the Licensor unless otherwise specified in writing.
+
+The intent of this license is to enable learning, collaboration, and
+non-commercial innovation, while protecting the creator's work from
+unauthorized commercial exploitation.
+
+END OF TERMS
